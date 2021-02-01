@@ -5,11 +5,13 @@
 }
 
 html {
-    background: #018DED url(img/danmark.jpg) no-repeat center center fixed;
+    background:    url(img/danmark.jpg) no-repeat center center fixed;
     background-size: cover;
+    
 }
 
 body {
+    
     display: flex;
     min-height: 100vh;
     justify-content: center;
@@ -20,8 +22,8 @@ body {
     width: 25rem;
     height: 25rem;
     border: rgba(75, 74, 74, 0.329) solid .1rem;
-    box-shadow: #838383b7 0 0 1rem;
-    background-color: #01050833;
+    box-shadow: #6b6464b7 0 0 1rem;
+    background-color: #ebe9e941;
     border-radius: 50%;
     
 }
