@@ -19,6 +19,7 @@ body {
 }
 
 #clock {
+    padding: 1rem;
     width: 25rem;
     height: 25rem;
     border: rgba(75, 74, 74, 0.329) solid .1rem;
@@ -62,6 +63,7 @@ body {
 
 @media screen and (max-width: 992px) {
     #clock {
+        padding: .8rem;
         width: 20rem;
         height: 20rem;
         border: rgba(75, 74, 74, 0.329) solid .08rem;
@@ -83,6 +85,7 @@ body {
 
 @media screen and (max-width: 758px) {
     #clock {
+        padding: .6rem;
         width: 15rem;
         height: 15rem;
         border: rgba(75, 74, 74, 0.329) solid .07rem;
@@ -104,6 +107,7 @@ body {
 
 @media screen and (max-width: 350px) {
     #clock {
+        padding: .5rem;
         width: 10rem;
         height: 10rem;
         border: rgba(75, 74, 74, 0.329) solid .05rem;
